@@ -1,3 +1,4 @@
 Editar o commit
-
 Linha que irá conflitar
+Aterar primeira linha // Comentario da primeira linha
+Linha 2 erro
